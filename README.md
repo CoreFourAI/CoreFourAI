@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-image.png" alt="CourFour AI Banner" width="100%" height="300px">
+  <img src="./banner.png" alt="CourFour AI Banner" width="100%" height="300px">
 </p>
 
 
