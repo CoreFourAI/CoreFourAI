@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="./assets/banner-image.png" alt="CourFour AI Banner" width="100%" height="300px">
+</p>
 
 
-
-
-
-# 💫 About Me:
+# 💫 ABOUT US:
 About Courfour AI<br>Welcome to Courfour AI—a premium hub where high-end web development meets modern e-commerce. We are built to handle custom digital orders and deliver top-tier tech products to our customers.<br><br>Our Core Operations<br>Custom Web & AI Orders: We accept and deliver custom orders for high-performance websites and smart AI solutions tailored specifically to your business goals.<br><br>Our E-Commerce Store: We manage a premium e-commerce platform selling top-quality tech products and appliances.<br><br>Sell Your Products With Us: Have a great product? We partner with brands and vendors looking to sell their inventory through our established e-commerce infrastructure.<br><br>Let’s Collaborate<br>Whether you want to place an order for a custom website, shop our latest tech collection, or partner with us to sell your own products—Courfour AI is your ultimate digital destination.<br><br>Build. Shop. Partner.
 
 
